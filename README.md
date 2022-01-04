@@ -26,3 +26,5 @@ Using Arduino we will collect the data from the battery and transmit it to the u
 *Potentiometer
 *9V/Car Battery
 
+##Circuit
+![Image text](https://github.com/g0takh0R/IOT-Based-Battery-Monitoring-System/blob/main/Circuit_Design.png)
